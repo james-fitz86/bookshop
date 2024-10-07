@@ -78,6 +78,8 @@
 }
 body{
     background-image: url('background.avif');
+    background-size: cover;
+    background-position: center;
 }
 a{
     text-decoration: none;
