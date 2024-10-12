@@ -118,11 +118,16 @@ a{
     text-align: center;
 }
 .navlinks{
+    border-radius: 10px;
     text-decoration: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #fccf30;
+    background-color: #fc7630;
     margin-right: 25px;
+    padding: 8px;
 }
+.navlinks:link { color : #fccf30; }
+.navlinks:hover { color : #fc5230; background-color: #fccf30; }
 .idiomatic{
     font-style:italic;
 }
