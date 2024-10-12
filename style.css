@@ -146,3 +146,7 @@ a{
 .center{
     text-align: center;
 }
+#topright{
+    top:10px;
+    right:10px;
+}
